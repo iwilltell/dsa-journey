@@ -1,10 +1,16 @@
-# ⚔️ My Data Structures & Algorithms Journey
+<div align="center">
+    <h1>❄️ Winter Arc: DSA Mastery ❄️</h1>
+    <p><i>"Discipline is doing what you hate to do, but doing it like you love it."</i></p>
+</div>
+<br>
 
-![Language](https://img.shields.io/badge/Language-Python_3-blue?style=for-the-badge&logo=python)
-![Status](https://img.shields.io/badge/Status-Leveling_Up-green?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Interviews_&_ML-orange?style=for-the-badge)
+<div align="center">
+  
+  ![Language](https://img.shields.io/badge/Language-Python_3-blue?style=for-the-badge&logo=python)
+  ![Status](https://img.shields.io/badge/Status-Leveling_Up-green?style=for-the-badge)
+  ![Focus](https://img.shields.io/badge/Focus-Interviews_&_ML-orange?style=for-the-badge)
 
-> *"It's not about being the best. It's about being better than you were yesterday."*
+</div>
 
 ---
 
@@ -14,7 +20,7 @@ I am a B.Tech Computer Science student documenting my journey to master **Data S
 This repository serves as my **"Training Arc"** — a daily log of my code, optimizations, and complexity analysis.
 
 ### 📊 My Stats
-[![LeetCode Stats](https://leetcode.card.wakatime.com/leetcode/cuUkkVLbHc?theme=nord&font=source-code-pro&extension=null)](https://leetcode.com/u/cuUkkVLbHc/)
+[![LeetCode Stats](https://leetcode.card.wakatime.com/leetcode/iwilltellu?theme=nord&font=source-code-pro&extension=null)](https://leetcode.com/u/iwilltellu/)
 
 ---
 
@@ -31,6 +37,17 @@ This repository serves as my **"Training Arc"** — a daily log of my code, opti
 | **07 Trees (BST)** | 0 | Recursion, DFS/BFS | 🔴 Locked |
 | **08 Graphs** | 0 | Adjacency List | 🔴 Locked |
 | **09 Dynamic Programming** | 0 | Memoization | 🔴 Locked |
+
+---
+
+## 🚀 How I Solve Problems
+To ensure I am actually learning and not just memorizing, I follow this framework:
+
+1.  **Understand:** Read the constraints and edge cases.
+2.  **Visualize:** Draw the data structure on paper.
+3.  **Brute Force:** Solve it first (even if it's slow).
+4.  **Optimize:** Can I use a Hash Map? Two Pointers? (Cut down O(n²) → O(n)).
+5.  **Code:** Write clean, Pythonic code.
 
 ---
 
